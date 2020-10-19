@@ -26,6 +26,11 @@ import { AuthGuard } from './auth-guard.service';
 import { UserService } from './user.service';
 import { AdminAuthGuard } from './admin-auth-guard.service';
 import { ProductFormComponent } from './admin/product-form/product-form.component';
+import { CategoryService } from './category.service';
+import { FormsModule } from '@angular/forms';
+import { ProductService } from './product.service';
+import { CustomFormsModule } from 'ng2-validation';
+// import { DataTableModule } from 'angular-4-data-table';
 
 @NgModule({
   declarations: [
@@ -45,6 +50,9 @@ import { ProductFormComponent } from './admin/product-form/product-form.componen
     BrowserModule,
     AppRoutingModule,
     NgbModule,
+    FormsModule,
+    CustomFormsModule,
+    // DataTableModule,
     RouterModule.forRoot([
       //unlogged pages
       { path: '', component: HomeComponent },
@@ -57,9 +65,21 @@ import { ProductFormComponent } from './admin/product-form/product-form.componen
       { path: 'my/orders', component: MyOrdersComponent, canActivate: [AuthGuard] },
       //admin pages
       { 
+        path: 'admin/products/new', 
+        component: ProductFormComponent, 
+        canActivate: [AuthGuard,AdminAuthGuard] 
+      },
+      { 
+        path: 'admin/products/:id', 
+        component: ProductFormComponent, 
+        canActivate: [AuthGuard,AdminAuthGuard] 
+      },
+      //most generic route for admin
+      { 
         path: 'admin/products', 
         component: AdminProductsComponent, 
-        canActivate: [AuthGuard,AdminAuthGuard] },
+        canActivate: [AuthGuard,AdminAuthGuard] 
+      },
       { 
         path: 'admin/orders',
         component: AdminOrdersComponent, 
@@ -74,7 +94,9 @@ import { ProductFormComponent } from './admin/product-form/product-form.componen
     AuthService,
     AuthGuard,
     AdminAuthGuard,
-    UserService
+    UserService,
+    CategoryService,
+    ProductService
   ],
   bootstrap: [AppComponent]
 })

@@ -12,17 +12,18 @@ export class AppComponent {
   constructor(private auth: AuthService, router: Router, private userService: UserService){
     //there is no unsubscribe and it can lead to memory leaks
     auth.user$.subscribe(user => {
-      if (user){
-        
+      if(!user) return;
         //not very good apporach as the user is saved any time
         //we want to save it when the user updates his/her name
-        
         userService.save(user);
 
         let returnUrl = localStorage.getItem('returnUrl');
-        //navigate to the returnUrl variable
-        router.navigateByUrl(returnUrl);
-      }
+
+        if(!returnUrl) return;
+
+          localStorage.removeItem('returnUrl');
+          //navigate to the returnUrl variable
+          router.navigateByUrl(returnUrl);
     });
   }
 }
