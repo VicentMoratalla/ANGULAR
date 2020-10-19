@@ -55,7 +55,7 @@ import { CustomFormsModule } from 'ng2-validation';
     // DataTableModule,
     RouterModule.forRoot([
       //unlogged pages
-      { path: '', component: HomeComponent },
+      { path: '', component: ProductsComponent },
       { path: 'products', component: ProductsComponent },
       { path: 'shopping-cart', component: ShoppingCartComponent },
       { path: 'login', component: LoginComponent },
