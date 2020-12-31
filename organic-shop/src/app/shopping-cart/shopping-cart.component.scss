@@ -1,0 +1,7 @@
+.thumbnail{
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    //resize the image without using complicated things and the image don't look squashed
+    background-size: cover;
+}

@@ -1,0 +1,12 @@
+.card{
+    margin-bottom: 16px;
+}
+.card-footer{
+    padding: 0;
+}
+
+// if we have a button in the footer make it as  pointer
+
+.card-footer button{
+    cursor: pointer;
+}
