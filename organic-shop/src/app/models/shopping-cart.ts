@@ -20,7 +20,7 @@ export class ShoppingCart {
         }
     }
 
-    get totalIemsCount() {
+    get totalItemsCount() {
         let count = 0;
         for (let productId in this.itemsMap)
             count += this.itemsMap[productId].quantity;

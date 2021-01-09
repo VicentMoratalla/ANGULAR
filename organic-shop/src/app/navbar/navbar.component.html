@@ -10,7 +10,7 @@
         <a class="nav-link" routerLink="/shopping-cart">
           Shopping Cart
           <span class="badge badge-warning bagde-pill" *ngIf="cart$ | async as cart">
-            {{cart.totalIemsCount}}
+            {{cart.totalItemsCount}}
           </span>
         </a>
       </li>

@@ -1,0 +1,40 @@
+<div class="card">
+    <h5 class="card-header">Shipping</h5>
+    <div class="card-body">
+        <form name="form" (ngSubmit)="onSubmit()" #f="ngForm">
+            <div class="form-group">
+                <label>Name</label>
+                <input type="text" name="name" class="form-control" [(ngModel)]="model.name" #name="ngModel"
+                    [ngClass]="{ 'is-invalid': f.submitted && name.invalid }" required>
+                <div *ngIf="f.submitted && name.invalid" class="invalid-feedback">
+                    <div *ngIf="name.errors.required">First Name is required</div>
+                </div>
+            </div>
+            <div class="form-group">
+                <label>Adress</label>
+                <input type="text" name="address" class="form-control" [(ngModel)]="model.address"
+                    #address="ngModel" [ngClass]="{ 'is-invalid': f.submitted && address.invalid }" required
+                    placeholder="Line 1">
+                <div *ngIf="f.submitted && address.invalid" class="invalid-feedback">
+                    <div *ngIf="address.errors.required">Address is required</div>
+                </div>
+            </div>
+            <div class="form-group">
+                <input type="text" name="address2" class="form-control" [(ngModel)]="model.address2"
+                    #address2="ngModel" [ngClass]="{ 'is-invalid': f.submitted && address2.invalid }"
+                    placeholder="Line 2">
+            </div>
+            <div class="form-group">
+                <label>City</label>
+                <input type="text" name="city" class="form-control" [(ngModel)]="model.city" #city="ngModel"
+                    [ngClass]="{ 'is-invalid': f.submitted && city.invalid }" required>
+                <div *ngIf="f.submitted && city.invalid" class="invalid-feedback">
+                    <div *ngIf="city.errors.required">City is required</div>
+                </div>
+            </div>
+            <div class="text-center">
+                <button class="btn btn-primary mr-1">Place an Order</button>
+            </div>
+        </form>
+    </div>
+</div>
