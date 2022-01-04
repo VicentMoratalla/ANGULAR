@@ -1,0 +1,7 @@
+{
+  "name": "My node microservice template - Production",
+  "mongo": {
+    "mongoUri": "mongodb://127.0.0.1:27016",
+    "mongoDbMain": "dev_users_db"
+  }
+}
