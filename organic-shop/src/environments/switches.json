@@ -1,0 +1,680 @@
+[
+    {
+        "id": 671,
+        "brand": "Admiral",
+        "key": "openingTimesSwitch",
+        "value": "1"
+    },
+    {
+        "id": 651,
+        "brand": "Admiral",
+        "key": "singleCarNewApp",
+        "value": "on"
+    },
+    {
+        "id": 652,
+        "brand": "Admiral",
+        "key": "multiCarNewApp",
+        "value": "on"
+    },
+    {
+        "id": 659,
+        "brand": "Admiral",
+        "key": "sendExcessInfo",
+        "value": "on"
+    },
+    {
+        "id": 665,
+        "brand": "Admiral",
+        "key": "excessControlGroup",
+        "value": "0,2,4,6,8"
+    },
+    {
+        "id": 683,
+        "brand": "Admiral",
+        "key": "phoneInFlow",
+        "value": "{ \"singleCar\": \"\", \"multiCar\": \"\", \"multi\": \"\", \"home\": \"\", \"littlebox\": \"\", \"van\": \"\", \"vanLittlebox\": \"\" }"
+    },
+    {
+        "id": 689,
+        "brand": "Admiral",
+        "key": "phoneBound",
+        "value": "{ \"singleCar\": \"\", \"multiCar\": \"\", \"multi\": \"\", \"home\": \"\", \"littlebox\": \"\", \"van\": \"\", \"vanLittlebox\": \"\" }"
+    },
+    {
+        "id": 695,
+        "brand": "Admiral",
+        "key": "blockNumbers",
+        "value": "{ \"normal\": \"\", \"van\": \"\" }"
+    },
+    {
+        "id": 705,
+        "brand": "Admiral",
+        "key": "directMotorNewAppNavigation",
+        "value": "on"
+    },
+    {
+        "id": 718,
+        "brand": "Admiral",
+        "key": "multiCarUpsellPage",
+        "value": "on"
+    },
+    {
+        "id": 1,
+        "brand": "Admiral",
+        "key": "home",
+        "value": "on"
+    },
+    {
+        "id": 2,
+        "brand": "Admiral",
+        "key": "multicover",
+        "value": "on"
+    },
+    {
+        "id": 3,
+        "brand": "Admiral",
+        "key": "motor",
+        "value": "on"
+    },
+    {
+        "id": 5,
+        "brand": "Admiral",
+        "key": "startDateLimit",
+        "value": "30"
+    },
+    {
+        "id": 6,
+        "brand": "Admiral",
+        "key": "quoteValidity",
+        "value": "30"
+    },
+    {
+        "id": 7,
+        "brand": "Admiral",
+        "key": "DVLA",
+        "value": "2"
+    },
+    {
+        "id": 8,
+        "brand": "Admiral",
+        "key": "openingTimes",
+        "value": "{\"van\":{\"MON\":{\"from\":\"08:00\",\"to\":\"19:00\"},\"YYYY-12-25\":\"holiday\",\"YYYY-12-26\":\"holiday\",\"2017-01-02\":{\"from\":\"10:00\",\"to\":\"18:00\"},\"TUE\":{\"from\":\"08:00\",\"to\":\"19:00\"},\"WED\":{\"from\":\"08:00\",\"to\":\"19:00\"},\"THU\":{\"from\":\"08:00\",\"to\":\"19:00\"},\"FRI\":{\"from\":\"08:00\",\"to\":\"19:00\"},\"SAT\":{\"from\":\"09:00\",\"to\":\"17:00\"},\"SUN\":{\"from\":\"10:00\",\"to\":\"16:00\"}},\"home\":{\"WEEKDAY\":{\"from\":\"08:00\",\"to\":\"20:00\"},\"YYYY-12-25\":\"holiday\",\"YYYY-12-26\":\"holiday\",\"2017-01-02\":{\"from\":\"10:00\",\"to\":\"18:00\"},\"SAT\":{\"from\":\"09:00\",\"to\":\"17:00\"},\"SUN\":{\"from\":\"10:00\",\"to\":\"17:00\"}},\"multicover\":{\"WEEKDAY\":{\"from\":\"08:00\",\"to\":\"20:00\"},\"YYYY-12-25\":\"holiday\",\"YYYY-12-26\":\"holiday\",\"2017-01-02\":{\"from\":\"10:00\",\"to\":\"18:00\"},\"SAT\":{\"from\":\"09:00\",\"to\":\"17:00\"},\"SUN\":{\"from\":\"10:00\",\"to\":\"17:00\"}},\"motor\":{\"MON\":{\"from\":\"08:00\",\"to\":\"20:00\"},\"YYYY-12-25\":\"holiday\",\"YYYY-12-26\":\"holiday\",\"2017-01-02\":{\"from\":\"10:00\",\"to\":\"18:00\"},\"TUE\":{\"from\":\"08:00\",\"to\":\"20:00\"},\"WED\":{\"from\":\"08:00\",\"to\":\"20:00\"},\"THU\":{\"from\":\"08:00\",\"to\":\"20:00\"},\"FRI\":{\"from\":\"08:00\",\"to\":\"20:00\"},\"SAT\":{\"from\":\"09:00\",\"to\":\"17:00\"},\"SUN\":{\"from\":\"10:00\",\"to\":\"17:00\"}}}"
+    },
+    {
+        "id": 21,
+        "brand": "Admiral",
+        "key": "productSelect",
+        "value": "0"
+    },
+    {
+        "id": 25,
+        "brand": "Admiral",
+        "key": "ddRejectionFee",
+        "value": "7.50"
+    },
+    {
+        "id": 26,
+        "brand": "Admiral",
+        "key": "preCollectionAdminFee",
+        "value": "49.50"
+    },
+    {
+        "id": 27,
+        "brand": "Admiral",
+        "key": "postCollectionAdminFee",
+        "value": "45.00"
+    },
+    {
+        "id": 28,
+        "brand": "Admiral",
+        "key": "productCancellationFee",
+        "value": "5.00"
+    },
+    {
+        "id": 41,
+        "brand": "Admiral",
+        "key": "coolOffAdminFee",
+        "value": "25.00"
+    },
+    {
+        "id": 45,
+        "brand": "Admiral",
+        "key": "startDateLimitHome",
+        "value": "30"
+    },
+    {
+        "id": 49,
+        "brand": "Admiral",
+        "key": "miPageValidationSwitch",
+        "value": "off"
+    },
+    {
+        "id": 53,
+        "brand": "Admiral",
+        "key": "premiumAPR",
+        "value": "10"
+    },
+    {
+        "id": 364,
+        "brand": "Admiral",
+        "key": "csOpeningTimes",
+        "value": "{\"motor\":{\"SAT\":{\"from\":\"09:00\",\"to\":\"17:00\"}, \"SUN\":{\"from\":\"10:00\",\"to\":\"16:00\"},\"MON\":{\"from\":\"08:00\",\"to\":\"18:00\"},\"TUE\":{\"from\":\"08:00\",\"to\":\"18:00\"},\"WED\":{\"from\":\"08:00\",\"to\":\"18:00\"},\"THU\":{\"from\":\"08:00\",\"to\":\"18:00\"},\"FRI\":{\"from\":\"08:00\",\"to\":\"18:00\"}},\"home\":{\"SAT\":{\"from\":\"09:00\",\"to\":\"17:00\"},\"SUN\":{\"from\":\"10:00\",\"to\":\"16:00\"},\"MON\":{\"from\":\"08:00\",\"to\":\"18:00\"},\"TUE\":{\"from\":\"08:00\",\"to\":\"18:00\"},\"WED\":{\"from\":\"08:00\",\"to\":\"18:00\"},\"THU\":{\"from\":\"08:00\",\"to\":\"18:00\"},\"FRI\":{\"from\":\"08:00\",\"to\":\"18:00\"}},\"van\":{\"SAT\":{\"from\":\"09:00\",\"to\":\"17:00\"},\"SUN\":{\"from\":\"10:00\",\"to\":\"16:00\"},\"MON\":{\"from\":\"08:00\",\"to\":\"18:00\"},\"TUE\":{\"from\":\"08:00\",\"to\":\"18:00\"},\"WED\":{\"from\":\"08:00\",\"to\":\"18:00\"},\"THU\":{\"from\":\"08:00\",\"to\":\"18:00\"},\"FRI\":{\"from\":\"08:00\",\"to\":\"18:00\"}}}"
+    },
+    {
+        "id": 59,
+        "brand": "Admiral",
+        "key": "Telematics.pndInception.pndInception",
+        "value": "{ \"name\":\"LittleBox\", \"icon\":\"icon-plug-and-drive\", \"desc\":{ \"price\":[ \"The Plug & Drive unit measures a range of driving behaviour including how the car is driven, how far it travels and the time of day it is used. If you drive in a consistent, smooth way and avoid late night driving you could be eligible for a discount at renewal.\" ], \"thankYou\":[ \"You'll receive the unit within 7-10 days after the policy start date and you'll need to sign for this on delivery - if you are out it's your responsibility to re-arrange delivery or pick the unit up from the delivery service.  If you have not received it within 10 days contact our Customer Services dept straight away (0871 882 1112).  Please follow the instructions provided with the device to fit it to your car.  You'll need to install the unit within 15 days of the policy start date.\" ]}, \"benefits\":[{ \"text\":\"Upfront discount for safe drivers\" }, { \"text\":\"More discount available at renewal\" }, { \"text\":\"Regular feedback, providing driving tips and journey information\" }], \"benefitsPrice\":[{ \"text\":\"Upfront discounts for safe drivers\" }, { \"text\":\"Discounts available at renewal\" }, { \"text\":\"Regular driving feedback\" }, { \"text\":\"Unit must remain plugged in 95% of the time\" }]}"
+    },
+    {
+        "id": 60,
+        "brand": "Admiral",
+        "key": "Telematics.genericAdded.genericAdded",
+        "value": "{ \"name\" : \"Protect\", \"icon\" : \"icon-protect\", \"desc\" : { \"productSelect\" : [\"If we detect a severe impact and cannot get through to you, we will call the emergency services for you on your behalf. Alternatively in event of non server accident, we will call you to help you arrange your cars repairs. Theft tracking is included which will assist in locating your car in the event it is stolen and the breakdown service will be able to use your GPS location to better find you in the event of a breakdown.\"], \"price\" : [\"This policy requires you to have a Telematics unit fitted to your car within 30 days of purchasing the policy. The unit measures a range of driving behaviour including how the car is driven, how far it travels, at what speed and the time of day it is used. If you drive in a consistent smooth way and avoid late night driving you could be eligible for a better renewal. Your driving won't affect your premium until your renewal.\"], \"thankYou\" : [\"The installer will contact you to arrange installation, which needs to be done within 30 days of purchasing the policy. If for any reason you fail to have it installed within 30 days, your policy could be cancelled. If you fail to attend a booked appointment there is a fee of £30 payable so please be aware of this if you have any holidays booked in the next 30 days.\"] }, \"benefits\" : [ {\"text\" : \"Location-aided breakdown cover\"}, {\"text\" : \"Accident assistance, we will call you to help\"}, {\"text\" : \"Theft tracking, finding your car's location if stolen\"}, {\"text\" : \"Emergency calls to emergency services on your behalf\"} ], \"benefitsPrice\" : [ {\"text\" : \"Location-aided breakdown cover\"}, {\"text\" : \"Accident assistance, we will call you to help\"}, {\"text\" : \"Theft tracking, finding your car's location if stolen\"}, {\"text\" : \"Emergency calls to emergency services on your behalf\"} ], \"videoMP4\" : \"video/Wildlife.mp4\", \"videoOGV\" : \"video/Wildlife.ogv\", \"image\" : \"image here\" }"
+    },
+    {
+        "id": 73,
+        "brand": "Admiral",
+        "key": "dev.switch.brand",
+        "value": "off"
+    },
+    {
+        "id": 77,
+        "brand": "Admiral",
+        "key": "DEVIbmBranchID",
+        "value": "80760000|ADMIRAL SITE"
+    },
+    {
+        "id": 78,
+        "brand": "Admiral",
+        "key": "debugController",
+        "value": "false"
+    },
+    {
+        "id": 82,
+        "brand": "Admiral",
+        "key": "simplifiedAggregatorJourney",
+        "value": "off"
+    },
+    {
+        "id": 91,
+        "brand": "Admiral",
+        "key": "publicKey",
+        "value": "10001|AAE1EF0717C1C8FFDEA10759EC27A2E9745D15AF4B9152BB1062AD6ACC16D932BF037D950552C3A5270408D91CA61AEB7CEBC2E4E1EE807516CEAA0E6ECC8D207D41EDEFC47CDAF19ED3B29517CA67DE964E1CBCDC93BB38002F6EA5EFCE14D6BD9D944ABBAF9D81BE51BE43DA082EEF66ED4E087BE3AD0DBAAB6170E07A5CB975DD95794F9548A1987CDAF49E88FF4FA0C08DB5694478A177E5919227D6BC7B9AD55AE7E529AE93BC43B58059BE66867D1B02DF56A7E52A07560ADAC69D9BFC3C268771D6C979DF93CA3F3D9199991209C8B12D7199343C765FAB77C481CBF48D883004182494B61CB91AD0B8083BC32914E6D802F01467A334E5D9A21F2AEF"
+    },
+    {
+        "id": 95,
+        "brand": "Admiral",
+        "key": "ibmBranchClientId",
+        "value": "50760000"
+    },
+    {
+        "id": 96,
+        "brand": "Admiral",
+        "key": "ibmDomain",
+        "value": "data.de.coremetrics.com"
+    },
+    {
+        "id": 97,
+        "brand": "Admiral",
+        "key": "ibmOurDomain",
+        "value": "admiral.com"
+    },
+    {
+        "id": 119,
+        "brand": "Admiral",
+        "key": "newCtmQuestionsSet",
+        "value": "on"
+    },
+    {
+        "id": 123,
+        "brand": "Admiral",
+        "key": "multicoverHomeAncillary",
+        "value": "on"
+    },
+    {
+        "id": 127,
+        "brand": "Admiral",
+        "key": "multicoverMotorAncillary",
+        "value": "on"
+    },
+    {
+        "id": 131,
+        "brand": "Admiral",
+        "key": "bridgingPromo",
+        "value": "off"
+    },
+    {
+        "id": 135,
+        "brand": "Admiral",
+        "key": "bridgingPromoSubTitle",
+        "value": "You're just 5 minutes from a guaranteed 15% saving"
+    },
+    {
+        "id": 139,
+        "brand": "Admiral",
+        "key": "bridgingProgressBarHomeSubText",
+        "value": "9 minutes"
+    },
+    {
+        "id": 369,
+        "brand": "Admiral",
+        "key": "NCBYear",
+        "value": "2020"
+    },
+    {
+        "id": 143,
+        "brand": "Admiral",
+        "key": "bridgingProgressBarMotorSubText",
+        "value": "5 minutes"
+    },
+    {
+        "id": 147,
+        "brand": "Admiral",
+        "key": "bridgingProgressBarQuoteSubText",
+        "value": "Save 15%"
+    },
+    {
+        "id": 151,
+        "brand": "Admiral",
+        "key": "coverSelectDisplayFilter",
+        "value": "{ \"admiral\": { \"showCoverSelect\": true, \"aggregators\": [ \"CON3H\",\"GOCOH\",\"CTMNH\",\"IMS?H\" ] }, \"gold\": { \"showCoverSelect\": true, \"aggregators\": [ \"CON3H\",\"GOCOH\",\"CTMNH\",\"IMS?H\" ] }, \"platinum\": { \"showCoverSelect\": true, \"aggregators\": [ \"CON3H\",\"GOCOH\",\"CTMNH\",\"IMS?H\" ] }}"
+    },
+    {
+        "id": 155,
+        "brand": "Admiral",
+        "key": "startDateLimitMulticover",
+        "value": "30"
+    },
+    {
+        "id": 159,
+        "brand": "Admiral",
+        "key": "multicoverMaxNumberCar",
+        "value": "6"
+    },
+    {
+        "id": 163,
+        "brand": "Admiral",
+        "key": "multicoverMaxNumberHome",
+        "value": "1"
+    },
+    {
+        "id": 167,
+        "brand": "Admiral",
+        "key": "multicarMaxNumberCar",
+        "value": "7"
+    },
+    {
+        "id": 171,
+        "brand": "Admiral",
+        "key": "sendFollowUpEmailMotor",
+        "value": "on"
+    },
+    {
+        "id": 175,
+        "brand": "Admiral",
+        "key": "sendFollowUpEmailHome",
+        "value": "on"
+    },
+    {
+        "id": 179,
+        "brand": "Admiral",
+        "key": "sendFollowUpEmailMultiCover",
+        "value": "on"
+    },
+    {
+        "id": 183,
+        "brand": "Admiral",
+        "key": "premiumAPRSwitch",
+        "value": "off"
+    },
+    {
+        "id": 187,
+        "brand": "Admiral",
+        "key": "hireCarCash",
+        "value": "250"
+    },
+    {
+        "id": 374,
+        "brand": "Admiral",
+        "key": "ncbDiscountValues",
+        "value": "{\"oneYearsNCB\":\"5\", \"twoYearsNCB\":\"12\", \"threeYearsNCB\":\"15\", \"fourYearsNCB\":\"24\", \"fiveYearsNCB\":\"25\", \"sixYearsNCB\":\"26\", \"sevenYearsNCB\":\"28\", \"eightYearsNCB\":\"31\", \"nineYearsNCB\":\"36\"}"
+    },
+    {
+        "id": 239,
+        "brand": "Admiral",
+        "key": "van",
+        "value": "on"
+    },
+    {
+        "id": 244,
+        "brand": "Admiral",
+        "key": "multiCoverVehicle",
+        "value": "off"
+    },
+    {
+        "id": 249,
+        "brand": "Admiral",
+        "key": "allowDifferentVehicleTypeSwitch",
+        "value": "on"
+    },
+    {
+        "id": 254,
+        "brand": "Admiral",
+        "key": "defaultVolExcessMotor",
+        "value": "350"
+    },
+    {
+        "id": 259,
+        "brand": "Admiral",
+        "key": "ibmOn",
+        "value": "true"
+    },
+    {
+        "id": 264,
+        "brand": "Admiral",
+        "key": "sendFollowUpEmailVan",
+        "value": "on"
+    },
+    {
+        "id": 269,
+        "brand": "Admiral",
+        "key": "sendFollowUpEmailMultiCoverVehicle",
+        "value": "off"
+    },
+    {
+        "id": 274,
+        "brand": "Admiral",
+        "key": "multivanMaxNumberVan",
+        "value": "7"
+    },
+    {
+        "id": 279,
+        "brand": "Admiral",
+        "key": "multicovervehicleMaxNumberVehicle",
+        "value": "7"
+    },
+    {
+        "id": 284,
+        "brand": "Admiral",
+        "key": "multiCoverVehicleToAddCar",
+        "value": "off"
+    },
+    {
+        "id": 289,
+        "brand": "Admiral",
+        "key": "multiCoverVehicleToAddVan",
+        "value": "off"
+    },
+    {
+        "id": 294,
+        "brand": "Admiral",
+        "key": "IPT",
+        "value": "12"
+    },
+    {
+        "id": 299,
+        "brand": "Admiral",
+        "key": "newIPT",
+        "value": "12"
+    },
+    {
+        "id": 304,
+        "brand": "Admiral",
+        "key": "newIPTEffectiveDate",
+        "value": "2017-06-01"
+    },
+    {
+        "id": 507,
+        "brand": "Admiral",
+        "key": "propensityThreshold",
+        "value": "2"
+    },
+    {
+        "id": 508,
+        "brand": "Admiral",
+        "key": "phoneHighPropensity",
+        "value": "{\"large\": \"0333 234 9982\", \"small\": \"0333 234 9982\"}"
+    },
+    {
+        "id": 518,
+        "brand": "Admiral",
+        "key": "allowNavigationToNewApp",
+        "value": "on"
+    },
+    {
+        "id": 309,
+        "brand": "Admiral",
+        "key": "vanAggEmails",
+        "value": "[\"nospam@vaninsuruer.co.uk\",\"noemail@gladiator.co.uk\",\"noemail@gladiator.com\"]"
+    },
+    {
+        "id": 311,
+        "brand": "Admiral",
+        "key": "telematicsControl",
+        "value": "50"
+    },
+    {
+        "id": 315,
+        "brand": "Admiral",
+        "key": "confusedOfferSwitch",
+        "value": "off"
+    },
+    {
+        "id": 324,
+        "brand": "Admiral",
+        "key": "multiCarAncilCodes",
+        "value": "[\"PMMotorLegalCoverAncCov\", \"PMNCBProtectionCov\", \"PMNCBGuaranteedCov\"]"
+    },
+    {
+        "id": 329,
+        "brand": "Admiral",
+        "key": "finalChecksDvlaCall",
+        "value": "on"
+    },
+    {
+        "id": 334,
+        "brand": "Admiral",
+        "key": "cardChargeChange",
+        "value": "false"
+    },
+    {
+        "id": 339,
+        "brand": "Admiral",
+        "key": "cardChargeChangeDate",
+        "value": "2017-12-09"
+    },
+    {
+        "id": 344,
+        "brand": "Admiral",
+        "key": "sendSteppedEmails",
+        "value": "false"
+    },
+    {
+        "id": 349,
+        "brand": "Admiral",
+        "key": "displayIPID",
+        "value": "on"
+    },
+    {
+        "id": 354,
+        "brand": "Admiral",
+        "key": "allowPaperDocs",
+        "value": "on"
+    },
+    {
+        "id": 359,
+        "brand": "Admiral",
+        "key": "chargesAndFeesURL",
+        "value": "https://www.admiral.com/about-us/your-agreement.php"
+    },
+    {
+        "id": 458,
+        "brand": "Admiral",
+        "key": "multiCar",
+        "value": "true"
+    },
+    {
+        "id": 526,
+        "brand": "Admiral",
+        "key": "allowedNewAppAggCodes",
+        "value": "[\"CON3H\",\"IMS?H\",\"CTMNH\",\"GOCOH\"]"
+    },
+    {
+        "id": 541,
+        "brand": "Admiral",
+        "key": "covidBannerLevel",
+        "value": "2"
+    },
+    {
+        "id": 677,
+        "brand": "Admiral",
+        "key": "phoneNumberMatrix",
+        "value": "{\"standard\":{\"singleCar\": {\"number\":\"0330 134 3204\", \"status\": \"0\"}, \"multiCar\": {\"number\":\"0330 134 3206\", \"status\": \"0\"}, \"singleVan\": {\"number\":\"0333 234 0036\", \"status\": \"0\"}, \"multiVan\": {\"number\":\"0333 234 0036\", \"status\": \"0\"}, \"multiCover\": {\"number\": \"0330 134 3208\", \"status\": \"0\"}, \"home\": {\"number\": \"0333 220 2090\", \"status\": \"0\"}, \"littleBoxsingleCar\": {\"number\": \"0330 134 3216\", \"status\": \"0\"}, \"littleBoxsingleVan\": {\"number\": \"0333 234 0038\", \"status\": \"0\"}, \"propensity\": {\"number\": \"0333 234 9982\", \"status\": \"1\"} },\"existing\":{\"singleCar\": {\"number\":\"0333 220 2000\", \"status\": \"0\"}, \"multiCar\": {\"number\":\"0333 220 2000\", \"status\": \"0\"}, \"singleVan\": {\"number\":\"0333 234 0198\", \"status\": \"0\"}, \"multiVan\": {\"number\":\"0333 220 2000\", \"status\": \"0\"}, \"multiCover\": {\"number\": \"0333 220 2002\", \"status\": \"0\"}, \"home\": {\"number\": \"0333 220 2003\", \"status\": \"0\"}, \"littleBoxsingleCar\": {\"number\": \"0333 220 2000\", \"status\": \"0\"}, \"littleBoxsingleVan\": {\"number\": \"0333 234 0198\", \"status\": \"0\"}}, \"block\":{\"singleCar\": {\"number\":\"0333 777 7351\", \"status\": \"0\"}, \"multiCar\": {\"number\":\"0333 777 7351\", \"status\": \"0\"}, \"singleVan\": {\"number\":\"0333 234 0036\", \"status\": \"0\"}, \"multiVan\": {\"number\":\"0333 234 0036\", \"status\": \"0\"}, \"multiCover\": {\"number\": \"0333 777 7351\", \"status\": \"0\"}, \"home\": {\"number\": \"0333 220 2090\", \"status\": \"0\"}, \"littleBoxsingleCar\": {\"number\": \"0333 777 7351\", \"status\": \"0\"}, \"littleBoxsingleVan\": {\"number\": \"0333 777 7351\", \"status\": \"0\"} }}"
+    },
+    {
+        "id": 384,
+        "brand": "Admiral",
+        "key": "displayMulticarUpsell",
+        "value": "on"
+    },
+    {
+        "id": 389,
+        "brand": "Admiral",
+        "key": "upsellToMulticarText",
+        "value": "<h2>Guarantee at least 10% off this car when you upgrade to MultiCar today.</h2><p>Simply add another car to get a MultiCar discount on all your cars. You'll only start paying for the additional car when it is due to renew.</p><p>Click 'Add Another Car' now to get your discount or alternatively call us on 0333 234 9982.</p>"
+    },
+    {
+        "id": 379,
+        "brand": "Admiral",
+        "key": "displayCarDefaqto",
+        "value": "on"
+    },
+    {
+        "id": 394,
+        "brand": "Admiral",
+        "key": "displayMultivanUpsell",
+        "value": "off"
+    },
+    {
+        "id": 399,
+        "brand": "Admiral",
+        "key": "upsellToMultivanText",
+        "value": "<h2>We guarantee to lower your price when you add another car to this policy</h2><p>Other cars <strong>can join at a later date</strong> and get their own MultiCar discount. Just tell us about them now.</p>"
+    },
+    {
+        "id": 404,
+        "brand": "Admiral",
+        "key": "displayVanDefaqto",
+        "value": "on"
+    },
+    {
+        "id": 57,
+        "brand": "Admiral",
+        "key": "Telematics.littleBx.littleBx",
+        "value": "{ \"name\" : \"LittleBox\", \"icon\" : \"icon-littlebox\", \"vanIcon\" : \"icon-van-littlebox\",  \"desc\" : { \"productSelect\" : [\"The LittleBox unit measures a range of driving behaviours. If you drive well you could be eligible for a discount at renewal. However your driving won't affect your premium until your renewal.\"], \"price\" : [\"This policy requires you to have a LittleBox Telematics unit fitted to your car within 30 days of purchasing the policy. LittleBox measures a range of driving behaviour including how the car is driven, how far it travels, at what speed and the time of day it is used. If you drive in a consistent smooth way and avoid late night driving you could be eligible for  discount on your renewal. Your driving won't affect your premium until your renewal, and you can check your progress on your online dashboard.\"], \"thankYou\" : [\"The installer will contact you to arrange installation, which needs to be done within 30 days of purchasing the policy. If for any reason you fail to have it installed within 30 days, your policy could be cancelled. If you fail to attend a booked appointment there is a fee of £30 payable so please be aware of this if you have any holidays booked in the next 30 days.\"] }, \"benefits\" : [ {\"text\" : \"Upfront discount for safe drivers\"}, {\"text\" : \"More discount available at renewal\"}, {\"text\" : \"Online dashboard login, providing driving tips and journey information\"} ], \"benefitsPrice\" : [ {\"text\" : \"Upfront discount for safe drivers\"}, {\"text\" : \"More discount available at renewal\"}, {\"text\" : \"Online dashboard login, providing driving tips and journey information\"} ], \"videoMP4\" : \"video/LB.mp4\", \"videoYou\" : \"MTMe91pWW8c\", \"image\" : \"image here\" }"
+    },
+    {
+        "id": 58,
+        "brand": "Admiral",
+        "key": "Telematics.littleBx.littleBxPlus",
+        "value": "{ \"name\" : \"LittleBox\", \"icon\" : \"icon-littlebox\", \"vanIcon\" : \"icon-van-littlebox\", \"desc\" : { \"productSelect\": [\"National Plus Breakdown Cover includes up to 3 home starts (within 1/4 mile of your home address), unlimited UK roadside assistance and unlimited nationwide recovery if your car can't be repaired the same day\"], \"price\": [\"LittleBox measures a range of driving behaviour including how the car is driven, how far it travels and the time of day it is used. If you drive in a consistent, smooth way and avoid late night driving you could be eligible for a discount on your renewal.\"], \"thankYou\" : [\"The installer will contact you to arrange installation, which needs to be done within 30 days of purchasing the policy. If for any reason you fail to have it installed within 30 days, your policy could be cancelled. If you fail to attend a booked appointment there is a fee of £30 payable so please be aware of this if you have any holidays booked in the next 30 days.\"] }, \"benefits\" : [ {\"text\" : \"Smartphone sized box installed out of sight\"}, {\"text\": \"National Plus Breakdown Cover\"}, {\"text\" : \"Theft tracking\"}, {\"text\" : \"Online dashboard to view your driving statistics\"} ], \"benefitsPrice\" : [ {\"text\" : \"Smartphone sized box installed out of sight\", \"info\": { \"text\": [\"An engineer will arrange to fit your LittleBox out of sight in your car. There is no extra charge for installation.\"]}}, { \"text\" : \"National Plus Breakdown Cover\", \"info\": { \"text\": [\"National Plus Breakdown Cover includes up to 3 home starts (within 1/4 mile of your home address), unlimited UK roadside assistance and unlimited nationwide recovery if your car can't be repaired the same day\"]}}, {\"text\" : \"Theft tracking\", \"info\": { \"text\": [\"If your car is stolen we may be able to locate it using your LittleBox\"]}}, {\"text\" : \"Online dashboard to view your driving statistics\", \"info\": { \"text\": [\"Login to find out your latest score and for tips on how to improve\"]}}, {\"text\" : \"Unit fitted within 30 days of purchase\", \"info\": { \"text\": [\"This policy requires you to have a LittleBox telematics unit fitted in your car within 30 days of purchasing\"]}} ], \"videoMP4\" : \"video/LBPlus.mp4\", \"videoYou\" : \"MTMe91pWW8c\", \"image\" : \"image here\" }"
+    },
+    {
+        "id": 631,
+        "brand": "Admiral",
+        "key": "showPropensityNumbers",
+        "value": "off"
+    },
+    {
+        "id": 632,
+        "brand": "Admiral",
+        "key": "emergencyPropensityHours",
+        "value": "{\"SAT\":{\"from\":\"10:00\",\"to\":\"16:00\"},\"MON\":{\"from\":\"09:00\",\"to\":\"18:00\"},\"TUE\":{\"from\":\"09:00\",\"to\":\"18:00\"},\"WED\":{\"from\":\"09:00\",\"to\":\"18:00\"},\"THU\":{\"from\":\"09:00\",\"to\":\"18:00\"},\"FRI\":{\"from\":\"09:00\",\"to\":\"18:00\"},\"SUN\":{\"from\":\"10:00\",\"to\":\"16:00\"}}"
+    },
+    {
+        "id": 633,
+        "brand": "Admiral",
+        "key": "globalWarningBanner",
+        "value": "off"
+    },
+    {
+        "id": 549,
+        "brand": "Admiral",
+        "key": "telematicsRedirect",
+        "value": "off"
+    },
+    {
+        "id": 738,
+        "brand": "Admiral",
+        "key": "motorDeeplinkingAggregators",
+        "value": "[\"IMS?T\",\"CON3\"]"
+    },
+    {
+        "id": 721,
+        "brand": "Admiral",
+        "key": "singleVanNewApp",
+        "value": "on"
+    },
+    {
+        "id": 722,
+        "brand": "Admiral",
+        "key": "multiVanNewApp",
+        "value": "on"
+    },
+    {
+        "id": 746,
+        "brand": "Admiral",
+        "key": "multiVanDisabledAncillaries",
+        "value": "[]"
+    },
+    {
+        "id": 533,
+        "brand": "Admiral",
+        "key": "showNumbers",
+        "value": "on"
+    },
+    {
+        "id": 610,
+        "brand": "Admiral",
+        "key": "transactAmountLimit",
+        "value": "215"
+    },
+    {
+        "id": 616,
+        "brand": "Admiral",
+        "key": "transactControlGroup",
+        "value": "1,2,3,4,5"
+    },
+    {
+        "id": 622,
+        "brand": "Admiral",
+        "key": "allowTransact",
+        "value": "on"
+    },
+    {
+        "id": 710,
+        "brand": "Admiral",
+        "key": "isGatewayS",
+        "value": "0"
+    },
+    {
+        "id": 409,
+        "brand": "Admiral",
+        "key": "feesAndChargesModal",
+        "value": "on"
+    },
+    {
+        "id": 509,
+        "brand": "Admiral",
+        "key": "MCIQNewFlow",
+        "value": "on"
+    },
+    {
+        "id": 510,
+        "brand": "Admiral",
+        "key": "smartpayTermUrl",
+        "value": "https://quote.admiral.com/web-services/3dpay"
+    }
+]

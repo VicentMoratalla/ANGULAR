@@ -19,7 +19,7 @@ export class ProductService {
       map(actions => 
         actions.map(a => ({ key: a.payload.key, ...a.payload.val() as Product }))
       )
-    );
+    )
   }
   getProduct(productId){
     return this.db.object('/products/'+ productId).valueChanges();

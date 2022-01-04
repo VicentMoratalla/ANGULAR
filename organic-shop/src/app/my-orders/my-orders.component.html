@@ -4,13 +4,15 @@
     <tr>
       <th>Customer</th>
       <th>Date</th>
+      <th>No of Items</th>
       <th></th>
     </tr>
   </thead> 
   <tbody>
-    <tr *ngFor="let order of orders$ | async">
-      <td>{{ order.shipping | json }}</td>
+    <tr *ngFor="let order of orders">
+      <td>{{ order.shipping.name }}</td>
       <td>{{ order.datePlaced | date}}</td>
+      <td>{{ (order.items) ? order.items.length : "No items" }}</td>
       <td>
         <a href="#">View</a>
       </td>
